@@ -31,7 +31,7 @@ if not BOT_TOKEN or not MONGO_URI:
     raise ValueError("Missing critical environment variables: BOT_TOKEN or MONGO_URI")
 
 # Multiple Admins Support
-ADMIN_IDS = [5785924075, 6443525890]
+ADMIN_IDS = [5785924075,8802096404]
 
 # Default Source Chat & Message IDs
 DEFAULT_SOURCE_CHAT_ID = 5785924075
